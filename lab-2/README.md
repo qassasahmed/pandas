@@ -71,7 +71,7 @@ my_set = {1, 2, 3}
 | **Dictionary** | Yes  | Yes*    | Keys: Yes, Values: No |
 | **Set**     | Yes     | No      | Yes    |
 
-\*Dictionaries are ordered as of Python 3.7+.
+> \*Dictionaries are ordered as of Python 3.7+.
 
 ---
 
